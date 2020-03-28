@@ -22,7 +22,6 @@ This repo follows the same Awesome List pattern as [Sindre Sorhus Awesome](https
 ## Hardware
 
 - [Low-Cost Open Source Ventilator or PAPR ](https://github.com/jcl5m1/ventilator)
--
 
 ## Data
 
