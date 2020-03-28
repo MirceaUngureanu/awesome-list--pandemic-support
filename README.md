@@ -26,12 +26,13 @@ This repo follows the same Awesome List pattern as [Sindre Sorhus Awesome](https
 ## Data
 
 - [Covidify - corona virus report and dataset generator for python](https://github.com/AaronWard/covidify)
+- [Covid19 api - A free API for data on the Coronavirus](https://covid19api.com/)
 
 ## Resources
 
 - [Locally Informed Resource Finding Tool](https://local.quarantinesupport.com/)
 - [Corona Virus Facts and figures](https://www.statista.com/page/covid-19-coronavirus)
-- [Coronavirus (Sars-CoV-2) 3D repsentation](https://spline.design/coronavirus3d/)
+- [Coronavirus (Sars-CoV-2) 3D representation](https://spline.design/coronavirus3d/)
 
 ## Support
 
