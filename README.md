@@ -18,6 +18,7 @@ This repo follows the same Awesome List pattern as [Sindre Sorhus Awesome](https
 ## Groups
 
 - [List of non-profits responding to COVID-19](https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=7779#group-470)
+- [CoronaWhy - volunteers to fight coronavirus (covid 19) ](https://www.coronawhy.org/)
 
 ## Hardware
 
@@ -35,7 +36,7 @@ This repo follows the same Awesome List pattern as [Sindre Sorhus Awesome](https
 - [Corona Virus Facts and figures](https://www.statista.com/page/covid-19-coronavirus)
 - [Coronavirus (Sars-CoV-2) 3D representation](https://spline.design/coronavirus3d/)
 - [Stay Home Take Care - A social distancing care package, prepped by Girls' Night In](https://www.stayhometakecare.com/)
-- [Covid symptom tracker](https://covid.joinzoe.com/)
+- [COVID symptom tracker](https://covid.joinzoe.com/)
 
 ## Support
 
