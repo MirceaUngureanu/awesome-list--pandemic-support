@@ -30,7 +30,8 @@ This repo follows the same Awesome List pattern as [Sindre Sorhus Awesome](https
 ## Resources
 
 - [Locally Informed Resource Finding Tool](https://local.quarantinesupport.com/)
-- [Corona Virus Facts and figure](https://www.statista.com/page/covid-19-coronavirus)
+- [Corona Virus Facts and figures](https://www.statista.com/page/covid-19-coronavirus)
+- [Coronavirus (Sars-CoV-2) 3D repsentation](https://spline.design/coronavirus3d/)
 
 ## Support
 
