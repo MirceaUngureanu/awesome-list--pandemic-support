@@ -1,4 +1,4 @@
-# Awesome List for Panemic support
+# Awesome List for Pandemic support
 
 There are so many Covid-19 support opportunities at the minute that I wanted to keep a log of everything.
 
