@@ -34,6 +34,7 @@ This repo follows the same Awesome List pattern as [Sindre Sorhus Awesome](https
 - [Locally Informed Resource Finding Tool](https://local.quarantinesupport.com/)
 - [Corona Virus Facts and figures](https://www.statista.com/page/covid-19-coronavirus)
 - [Coronavirus (Sars-CoV-2) 3D representation](https://spline.design/coronavirus3d/)
+- [Stay Home Take Care - A social distancing care package, prepped by Girls' Night In](https://www.stayhometakecare.com/)
 
 ## Support
 
