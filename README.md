@@ -29,6 +29,7 @@ This repo follows the same Awesome List pattern as [Sindre Sorhus Awesome](https
 - [Covidify - corona virus report and dataset generator for python](https://github.com/AaronWard/covidify)
 - [Covid19 api - A free API for data on the Coronavirus](https://covid19api.com/)
 - [COVID-19 consumer impact tracker](https://meetglimpse.com/covid19/)
+- [Just stay home - data dashboard](https://juststayhome.io/)
 
 ## Resources
 
