@@ -35,6 +35,7 @@ This repo follows the same Awesome List pattern as [Sindre Sorhus Awesome](https
 - [Corona Virus Facts and figures](https://www.statista.com/page/covid-19-coronavirus)
 - [Coronavirus (Sars-CoV-2) 3D representation](https://spline.design/coronavirus3d/)
 - [Stay Home Take Care - A social distancing care package, prepped by Girls' Night In](https://www.stayhometakecare.com/)
+- [Covid symptom tracker](https://covid.joinzoe.com/)
 
 ## Support
 
