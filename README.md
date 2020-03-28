@@ -1,1 +1,39 @@
-# awesome-pandemic-volunteering
+# Awesome List for Panemic support
+
+There are so many Covid-19 support opportunities at the minute that I wanted to keep a log of everything.
+
+This repo follows the same Awesome List pattern as [Sindre Sorhus Awesome](https://github.com/sindresorhus/awesome)
+
+## Software
+
+- [A template for emergency information websites](https://github.com/maxboeck/emergency-site)
+
+## Challenges
+
+- [COVID-19 Communication Inspiration Challenge ](https://www.openideo.com/challenge-briefs/covid19-communication-challenge)
+
+## Events
+- [27th March --- #CodeVsCOVID19 online hackathon](https://www.codevscovid19.org/)
+
+## Groups
+
+- [List of non-profits responding to COVID-19](https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=7779#group-470)
+
+## Hardware
+
+- [Low-Cost Open Source Ventilator or PAPR ](https://github.com/jcl5m1/ventilator)
+-
+
+## Data
+
+- [Covidify - corona virus report and dataset generator for python](https://github.com/AaronWard/covidify)
+
+## Resources
+
+- [Locally Informed Resource Finding Tool](https://local.quarantinesupport.com/)
+- [Corona Virus Facts and figure](https://www.statista.com/page/covid-19-coronavirus)
+
+## Support
+
+- [Free MongoDB Atlas database-as-a-service credits available for those detecting, understanding, and stopping the spread of COVID-19.](https://www.mongodb.com/blog/post/helping-developers-tackle-covid19)
+- [Free access to the Udacity catalog](https://www.udacity.com/)
