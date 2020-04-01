@@ -13,7 +13,8 @@ This repo follows the same Awesome List pattern as [Sindre Sorhus Awesome](https
 - [COVID-19 Communication Inspiration Challenge ](https://www.openideo.com/challenge-briefs/covid19-communication-challenge)
 
 ## Events
-- [27th March --- #CodeVsCOVID19 online hackathon](https://www.codevscovid19.org/)
+- <del>27th March | [#CodeVsCOVID19 online hackathon](https://www.codevscovid19.org/)<del>
+- 3-5th April | [MIT COVID-19 challenge](https://covid19challenge.mit.edu/)
 
 ## Groups
 
