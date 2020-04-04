@@ -45,3 +45,7 @@ This repo follows the same Awesome List pattern as [Sindre Sorhus Awesome](https
 
 - [Free MongoDB Atlas database-as-a-service credits available for those detecting, understanding, and stopping the spread of COVID-19.](https://www.mongodb.com/blog/post/helping-developers-tackle-covid19)
 - [Free access to the Udacity catalog](https://www.udacity.com/)
+
+## Games
+
+- [Foldit - online puzzle video game about protein folding](https://fold.it/portal/)
